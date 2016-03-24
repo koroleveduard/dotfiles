@@ -1,0 +1,7 @@
+[user]
+	email = karevseo@mail.ru
+	name = Eduard Korolev
+[alias]
+	st = status
+	ci = commit
+	br = branch
