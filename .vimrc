@@ -33,6 +33,7 @@ set hidden "чтобы переключаться между буферами б
 set noswapfile
 set title "включить отображение имя буфера в заголовке терминала
 set ignorecase "поиск без учёта поиска регистра символов
+set cot-=preview "disable doc preview in omnicomplete"
 
 
 let g:VeryMagicSubstitute = 1  " (default is 0)
