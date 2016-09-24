@@ -109,3 +109,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export WORKON_HOME=~/Env
+export WORKON_HOME=~/Env
+source /usr/local/bin/virtualenvwrapper.sh

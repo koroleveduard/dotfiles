@@ -34,6 +34,7 @@ set noswapfile
 set title "включить отображение имя буфера в заголовке терминала
 set ignorecase "поиск без учёта поиска регистра символов
 set cot-=preview "disable doc preview in omnicomplete"
+set paste
 
 
 let g:VeryMagicSubstitute = 1  " (default is 0)
