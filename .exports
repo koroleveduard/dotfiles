@@ -1,3 +1,4 @@
 export EDITOR=vim
 export PAGER=less
-export HISTIGNORE="ls:cd:cd -:pwd:exit:date:* --help:st"
+export HISTIGNORE="ls:cd:cd -:pwd:exit:date:* --help:st:git status:man *"
+export PROMPT_COMMAND='history -a' #сохранять команды в историю сразу после выполнения
